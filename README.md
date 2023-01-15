@@ -1,4 +1,5 @@
-### Hi there 👋
+# About Me
+Aspiring to study at the University of Waterloo in Software Engineering
 
 <!--
 **Trollermaner/Trollermaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
