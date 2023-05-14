@@ -1,5 +1,5 @@
 # About Me
-I mostly make websites. Programming knowledge is pretty basic but would love to learn more.
+University of Waterloo student in Software Engineering
 
 <!--
 **Trollermaner/Trollermaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
